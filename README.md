@@ -2,7 +2,7 @@
 - 👀 I’m interested in sociology and history
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... WeChat ID: Sundery
 
 <!---
 nick225599/nick225599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
