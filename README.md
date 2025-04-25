@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nick Sun
 - 👀 I’m interested in sociology and history
 - 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything i can do
 - 📫 How to reach me ... WeChat ID: Sundery
 
 <!---
